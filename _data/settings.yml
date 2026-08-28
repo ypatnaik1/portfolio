@@ -7,11 +7,11 @@ logo: '/assets/img/musa-logo.png'
 # A brief introduction or mission statement that appears at the top of the
 # portfolio home page, above the project list. If you don't want one of the
 # intro_title or intro_text to show up, just set the appropriate value to null.
-intro_title: Yogi Patnaik's MUSA Portfolio year 2026-27
+intro_title: Yogi Patnaik's MUSA Portfolio 
 intro_text: |
-  A brief couple of sentences describing your personal mission statement goes
-  here. This is a great place to very succinctly tell a visitor what drives you
-  and what you're passionate about.
+  I am a MUSA student with a background in GIS. My main interests are in sustainable design, specifically with transportation
+  implications. I am passionate about maps and travelling and believe that learning the culture of a place is an underlooked,
+  yet important part about how we design our cities and develop them to be better for the population and the environment.
 
 # The link that is used for the resume button, below the intro text on the
 # portfolio home page. This link will also be used in the drop down menu. If
